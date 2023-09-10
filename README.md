@@ -1,1 +1,1 @@
-# pokedex-js
+# Pokedex construída com conceitos web
